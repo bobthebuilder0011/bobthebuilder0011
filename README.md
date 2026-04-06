@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a btech 3rd yr student<br>I am working on fullstack development<br>I have completed certification in C, C++, Java, Python<br>i have a strong footing in html, python, java, html, javascript, CSS, C, C++.<br>
+Im a btech 3rd yr student<br>I am working on fullstack development<br>I have completed certification in C, C++, Java, Python<br>i have a strong footing in python, java, html, javascript, CSS, C, C++.<br>
 
 
 ## 🌐 Socials:
