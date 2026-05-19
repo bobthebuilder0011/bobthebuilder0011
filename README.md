@@ -1,6 +1,7 @@
 # 💫 About Me:
 Im a btech 3rd yr student<br>I am working on fullstack development<br>I have completed certification in C, C++, Java, Python<br>i have a strong footing in python, java, html, javascript, CSS, C, C++.<br>
 
+![GitHub Snake](https://raw.githubusercontent.com/bobthebuilder0011/bobthebuilder0011/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dude_its_divyansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-chauhan-79a97822b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bobys3952@gmail.com) 
