@@ -20,7 +20,6 @@
 
 ## 🧠 About Me
 
-```python
 class Divyansh:
     def __init__(self):
         self.name        = "Divyansh Chauhan"
@@ -36,11 +35,10 @@ class Divyansh:
         self.fun_fact    = "I debug faster with coffee"
 
     def say_hi(self):
-        print("Thanks for visiting! Lets build something amazing together!")
+        print("Thanks for visiting! Let's build something amazing together!")
 
 me = Divyansh()
 me.say_hi()
-```
 
 ---
 
