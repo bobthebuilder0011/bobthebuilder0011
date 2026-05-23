@@ -19,7 +19,7 @@
 ---
 
 ## 🧠 About Me
-
+'''python
 class Divyansh:
     def __init__(self):
         self.name        = "Divyansh Chauhan"
@@ -39,7 +39,7 @@ class Divyansh:
 
 me = Divyansh()
 me.say_hi()
-
+'''
 ---
 
 ## 🚀 Featured Projects
