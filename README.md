@@ -5,12 +5,11 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%7C+AI%2FML+%40+SRM+IST;Machine+Learning+Engineer+in+the+making;Building+production-ready+ML+pipelines;Open+Source+Enthusiast+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%7C+AI%2FML+%40+SRM+IST;Machine+Learning+Engineer+in+the+making;Building+production-ready+ML+pipelines;Open+Source+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=bobthebuilder0011&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/bobthebuilder0011)
 [![GitHub followers](https://img.shields.io/github/followers/bobthebuilder0011?label=Followers&style=social)](https://github.com/bobthebuilder0011?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/divyansh-chauhan-79a97822b)
@@ -21,7 +20,7 @@
 
 ## 🧠 About Me
 
-'''python
+```python
 class Divyansh:
     def __init__(self):
         self.name        = "Divyansh Chauhan"
@@ -41,7 +40,7 @@ class Divyansh:
 
 me = Divyansh()
 me.say_hi()
-'''
+```
 
 ---
 
@@ -51,9 +50,9 @@ me.say_hi()
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🐾 **Dogs vs. Cats Classifier** | Production-ready SVM + HOG image classifier. 80–85% accuracy, Docker, CLI, GridSearchCV tuning | `Python` `SVM` `HOG` `Docker` `scikit-learn` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011/Advanced-Dogs-vs.-Cats-Image-Classifier-with-SVM) [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?logo=netlify)](https://bobthebuilder0011.github.io/Advanced-Dogs-vs.-Cats-Image-Classifier-with-SVM/) |
-| 🏠 **House Price Predictor** | Real-time valuation engine across 18+ Indian cities. R² = 85% using Linear Regression + custom features | `Python` `scikit-learn` `NumPy` `Pandas` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011) |
-| 📚 **Study Hub** | GATE 2027 prep platform with syllabus tracking, practice questions & resource aggregation | `HTML` `CSS` `JavaScript` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011) [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?logo=netlify)](https://bobthebuilder0011.github.io) |
+| 🐾 **Dogs vs. Cats Classifier** | Production-ready SVM + HOG image classifier. 80-85% accuracy, Docker, CLI, GridSearchCV tuning | `Python` `SVM` `HOG` `Docker` `scikit-learn` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011/Advanced-Dogs-vs.-Cats-Image-Classifier-with-SVM) |
+| 🏠 **House Price Predictor** | Real-time valuation engine across 18+ Indian cities. R2 = 85% using Linear Regression | `Python` `scikit-learn` `NumPy` `Pandas` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011) |
+| 📚 **Study Hub** | GATE 2027 prep platform with syllabus tracking, practice questions and resource aggregation | `HTML` `CSS` `JavaScript` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011) |
 | 💸 **Expense Tracker** | Modern expense tracking app with categorisation and spending analytics | `Java` `JavaFX` | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/bobthebuilder0011/Simple-Expense-Tracker) |
 
 </div>
@@ -177,7 +176,6 @@ me.say_hi()
 
 <div align="center">
 
-<!-- ANIMATED WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
