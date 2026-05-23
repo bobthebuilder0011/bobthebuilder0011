@@ -21,26 +21,27 @@
 
 ## 🧠 About Me
 
-```python
+'''python
 class Divyansh:
     def __init__(self):
-        self.name       = "Divyansh Chauhan"
-        self.role       = "AI/ML Engineer & Full-Stack Developer"
-        self.university = "SRM IST Modinagar"
-        self.degree     = "B.Tech CSE (AI/ML) — CGPA: 9.35"
-        self.languages  = ["Python", "Java", "C++", "JavaScript"]
-        self.ml_stack   = ["scikit-learn", "SVM", "NumPy", "Pandas", "HOG", "GridSearchCV"]
-        self.web_stack  = ["HTML", "CSS", "JavaScript", "Netlify", "Vercel"]
-        self.tools      = ["Git", "Docker", "VS Code", "GitHub Actions"]
-        self.currently  = "Building full-stack apps + ML pipelines"
-        self.goal       = "Land an impactful SWE / ML Engineering role"
+        self.name        = "Divyansh Chauhan"
+        self.role        = "AI/ML Engineer & Full-Stack Developer"
+        self.university  = "SRM IST Modinagar"
+        self.degree      = "B.Tech CSE (AI/ML) | CGPA: 9.35"
+        self.languages   = ["Python", "Java", "C++", "C", "JavaScript"]
+        self.ml_stack    = ["scikit-learn", "SVM", "NumPy", "Pandas", "HOG", "GridSearchCV"]
+        self.web_stack   = ["HTML", "CSS", "JavaScript", "Netlify", "Vercel"]
+        self.tools       = ["Git", "Docker", "VS Code", "GitHub Actions"]
+        self.currently   = "Building full-stack apps + ML pipelines"
+        self.goal        = "Land an impactful SWE / ML Engineering role"
+        self.fun_fact    = "I debug faster with coffee"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Lets build something amazing together!")
 
 me = Divyansh()
 me.say_hi()
-```
+'''
 
 ---
 
